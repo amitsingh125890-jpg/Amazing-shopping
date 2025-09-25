@@ -20,7 +20,7 @@ export default function Home() {
         <div className="container mx-auto grid grid-cols-1 items-center gap-8 px-4 py-16 md:grid-cols-2 md:py-24">
           <div className="flex flex-col items-start gap-6">
             <h1 className="text-4xl font-bold tracking-tighter text-primary-foreground md:text-5xl lg:text-6xl">
-              The Great Indian Festival is Live!
+              Welcome to Your Online Store
             </h1>
             <p className="max-w-md text-lg text-primary-foreground/80">
               Unbeatable deals, endless choices. Your ultimate shopping
